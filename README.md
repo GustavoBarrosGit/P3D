@@ -19,4 +19,7 @@ This is a comprehensive 3D graphics rendering application developed in **C++** u
   - `3` - Point Light
   - `4` - Spotlight
 - **Animation Trigger**: Press the `Space` key to animate a billiard ball, which stops upon collision with another ball or the table boundary.
-- **Physics Simulation**: Implements collision detection and realistic ball movements. 
+- **Physics Simulation**: Implements collision detection and realistic ball movements.
+
+  **Preview:**
+![Example](.vs/Screenshot_36.png)
