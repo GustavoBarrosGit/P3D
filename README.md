@@ -23,3 +23,7 @@ This is a comprehensive 3D graphics rendering application developed in **C++** u
 
   **Preview:**
 ![Example](.vs/Screenshot_36.png)
+
+
+- **Gustavo Barros**
+- **Daniel Malheiro**
